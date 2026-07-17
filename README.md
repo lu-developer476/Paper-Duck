@@ -1,4 +1,4 @@
-# Pato al rescate
+# Pato de papel
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.1%2B-092E20?logo=django&logoColor=white)
@@ -9,13 +9,13 @@
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-Production-499848?logo=gunicorn&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-Deployment-46E3B7?logo=render&logoColor=white)
 
-**Pato al rescate** es un juego web infanto-juvenil hecho con Django y JavaScript. Acompañá a Pipa, una mamá pato, a cruzar cinco carriles de río, rescatar patitos y llegar a la bahía sin chocar con los obstáculos.
+**Pato de papel** es un juego web infanto-juvenil hecho con Django y JavaScript. Acompañá a Pipa, una mamá pato, a cruzar cinco carriles de río, rescatar patitos y llegar a la bahía sin chocar con los obstáculos.
 
 ## Características
 
 - Dos modos de juego: **Rescate**, con una meta de patitos según la dificultad, y **Contrarreloj**, con 60 segundos de juego.
 - Tres niveles de dificultad y tres escenarios visuales: río alegre, atardecer y noche tibia.
-- Controles con teclado y gestos táctiles, además de pausa durante la partida.
+- Controles con teclado, gestos táctiles y toques directos en los carriles, además de pausa durante la partida.
 - Puntos, rachas, estrellas y burbujas protectoras.
 - Ranking y estadísticas guardados localmente en el navegador; no se envían a un servidor.
 
@@ -59,7 +59,7 @@
 ## Cómo jugar
 
 1. Elegí un nombre, modo, escenario y dificultad en **Nueva partida**.
-2. Mové a Pipa entre los cinco carriles con las flechas **←** y **→**, o deslizá hacia los costados sobre el juego en pantallas táctiles.
+2. Mové a Pipa entre los cinco carriles con las flechas **←** y **→**. En Tablet o Mobile, tocá el carril al que querés ir o deslizá hacia los costados sobre el juego.
 3. Rescatá patitos para sumar puntos; rescatarlos en cadena aumenta el multiplicador.
 4. Juntá estrellas para obtener puntos extra y burbujas para bloquear un choque.
 5. Evitá troncos, nenúfares, peces y botes. Tenés tres vidas.

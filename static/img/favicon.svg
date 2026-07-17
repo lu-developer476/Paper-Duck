@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Pato al rescate</title>
+  <desc id="desc">Un pato amarillo nadando sobre un río azul.</desc>
+  <rect width="64" height="64" rx="16" fill="#C9F0EF"/>
+  <path d="M0 43c9-4 18 4 27 0s18-4 37 0v21H0Z" fill="#44BBCF"/>
+  <path d="M5 53c8-5 16 4 24 0s16-5 30 0" fill="none" stroke="#86DAE0" stroke-linecap="round" stroke-width="3"/>
+  <ellipse cx="31" cy="37" rx="18" ry="13" fill="#FFD34E"/>
+  <circle cx="38" cy="25" r="10" fill="#FFD34E"/>
+  <path d="M45 27h12l-7 6h-5Z" fill="#FF9F45"/>
+  <circle cx="41" cy="22" r="2.4" fill="#173A5E"/>
+  <path d="M19 36c6-6 14-5 18 2-7 4-13 4-18-2Z" fill="#FFF4B8"/>
+  <path d="M16 46c5 3 24 3 31-1" fill="none" stroke="#E5AE27" stroke-linecap="round" stroke-width="2.5"/>
+</svg>

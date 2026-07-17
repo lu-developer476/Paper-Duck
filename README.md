@@ -13,8 +13,9 @@
 
 ## Características
 
-- Dos modos de juego: **Rescate**, con una meta de patitos según la dificultad, y **Contrarreloj**, con 60 segundos de juego.
-- Tres niveles de dificultad y tres escenarios visuales: río alegre, atardecer y noche tibia.
+- Dos modos de juego: **Travesía**, una experiencia sin meta corta donde los patitos aparecen en oleadas procedurales, y **Contrarreloj**, con 60 segundos de juego.
+- Cuatro niveles visualmente distintos que cambian automáticamente cada 45 segundos: río alegre, cañón dorado, pantano de juncos y laguna lunar.
+- Enemigos específicos de cada nivel, incluidos cangrejos, garzas, nutrias, redes y remolinos, además de troncos, botes, peces y nenúfares.
 - Controles con teclado, gestos táctiles y toques directos en los carriles, además de pausa durante la partida.
 - Puntos, rachas, estrellas y burbujas protectoras.
 - Ranking y estadísticas guardados localmente en el navegador; no se envían a un servidor.
@@ -60,7 +61,7 @@
 
 1. Elegí un nombre, modo, escenario y dificultad en **Nueva partida**.
 2. Mové a Pipa entre los cinco carriles con las flechas **←** y **→**. En Tablet o Mobile, tocá el carril al que querés ir o deslizá hacia los costados sobre el juego.
-3. Rescatá patitos para sumar puntos; rescatarlos en cadena aumenta el multiplicador.
+3. Rescatá patitos que aparecen espaciados en oleadas procedurales; rescatarlos en cadena aumenta el multiplicador.
 4. Juntá estrellas para obtener puntos extra y burbujas para bloquear un choque.
 5. Evitá troncos, nenúfares, peces y botes. Tenés tres vidas.
 6. Presioná **Espacio** o usá el botón de pausa para detener y reanudar la partida.

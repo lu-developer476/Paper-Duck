@@ -18,6 +18,7 @@
 - Enemigos específicos de cada nivel, incluidos cangrejos, garzas, nutrias, redes y remolinos, además de troncos, botes, peces y nenúfares.
 - Controles con teclado, gestos táctiles y toques directos en los carriles, además de pausa durante la partida.
 - Puntos, rachas, estrellas y burbujas protectoras.
+- Sonidos procedurales creados con Web Audio API, con controles persistentes para activar o desactivar ambiente y efectos, y ajustar sus volúmenes. No requiere archivos de audio.
 - Ranking y estadísticas guardados localmente en el navegador; no se envían a un servidor.
 
 ## Requisitos
